@@ -1,6 +1,6 @@
 """Tests for the fairsharer.my_module module.
 """
-from fairsharer.fair_sharer import fair_sharer
+from fairsharer.fairsharer import fair_sharer
 
 
 def test_fair_sharer():
